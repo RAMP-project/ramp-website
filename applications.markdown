@@ -7,7 +7,7 @@ permalink: /applications/
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
 <h style="color: "><b>Electricity and heat demand profiles of communities remote areas</b>
 
-<p><img src="/assets/ramp_cloud_trimmed.gif" width="500" align="right" class="pad-top-left"/></p>
+<p><img src="/assets/ramp_cloud.gif" width="400" align="right" class="pad-top-left"/></p>
 
 
 RAMP was initially designed and is still mainly used to simulate electricity (and heat) demand profiles in remote areas at the community scale. This default version of the software is accessible <a href="https://github.com/RAMP-project/RAMP">here</a>.
@@ -36,7 +36,7 @@ We list below some representative case studies in this field.
 <br><br>
 In a <a href="https://doi.org/10.1016/j.apenergy.2022.118676">recent publication</a>, we showed how RAMP-mobility can be used to generated such profiles for all European countries based on few, simple data, while accounting for environmental and socio-demographic differences.
 <br><br>
-<img src="/assets/uncontrolled.gif" width="700" align="center"/>
+<img src="/assets/vehicles.gif" width="700" align="center"/>
 <br>
 
 </p>
