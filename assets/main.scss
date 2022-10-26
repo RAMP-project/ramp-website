@@ -1,0 +1,57 @@
+---
+---
+
+@import "minima";
+
+.site-title::before {
+	content: url("/assets/RAMP_logo.svg");
+	display: inline-block;
+	position: relative;
+	width: 35px;
+	top: 11px;
+}
+
+
+/** Basic styling */
+body { background-color: #F2F2F2; 
+       font-family: "Open Sans", Open Sans, sans;
+       font-size: 16px;
+}
+
+
+a { color: #4032F9; text-decoration: none; }
+a:visited { color: #4032F9; }
+
+img.rounded-corners {
+  margin-right: 20px;
+  clip-path: circle();
+}
+
+img.next-to-text {
+  margin-right: 20px;
+}
+
+img.pad-left {
+    margin-left: 20px;
+}
+
+img.pad-right {
+    margin-right: 20px;
+}
+
+img.pad-top-right {
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+img.pad-top-left {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
