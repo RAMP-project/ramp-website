@@ -4,7 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-The RAMP software suite has been used for many scientific publications. In this page we list the publicly available work based on RAMP which we are aware of. Wnat to add your own publication? Then feel free to make a pull request or contact us.
+The RAMP software suite has been used for many scientific publications. In this page, we list the publicly available work based on RAMP which we are aware of. 
+
+Want to **add your own publication**? Then feel free to make a [pull request](/https://github.com/RAMP-project/ramp-website) or contact us.
 
 - P. Lubello, M. Pasqui, A. Mati, C. Carcasci, Assessment of hydrogen-based long term electrical energy storage in residential energy systems. Smart Energy, Volume 8, (2022). [https://doi.org/10.1016/j.segy.2022.100088](https://doi.org/10.1016/j.segy.2022.100088)
 
