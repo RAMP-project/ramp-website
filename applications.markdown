@@ -30,7 +30,7 @@ We list below some representative case studies in this field.
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
 
-<p><b>Mobility and charging profiles of electric vehicles' fleets</b></p>
+<p><b>Mobility and charging profiles of electric vehicle fleets</b></p>
 
 <p>The other main active field of application of the RAMP project is the generation of mobility and charging profiles of electric vehicles' fleets. The customised version of the software that makes this possible takes its own name of RAMP-mobility and is hosted on a <a href="https://github.com/RAMP-project/RAMP-mobility">repository of its own</a>.
 <br><br>

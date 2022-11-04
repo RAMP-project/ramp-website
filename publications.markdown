@@ -12,6 +12,8 @@ Want to **add your own publication**? Then feel free to make a [pull request](/h
 
 - M. C. G. Hart, and M. H. Breitner. Fostering Energy Resilience in the Rural Thai Power System—A Case Study in Nakhon Phanom. Energies 15, no. 19 (2022): 7374. [https://doi.org/10.3390/en15197374](https://doi.org/10.3390/en15197374)
 
+- A. Mangipinto, F. Lombardi, F.D. Sanvito, M. Pavičević, S. Quoilin, and E. Colombo. Impact of mass-scale deployment of electric vehicles and benefits of smart charging across all European countries. Applied Energy, (2022), 312, p.118676.
+
 - C. Sanchez, N. Stevanato, S. L. Balderrama Subieta, and S. Quoilin. Energy Sufficiency for Rural Communities: The Case of The Bolivian Lowlands. In 16th Conference on sustainable development of energy, water, and environment systems. (2021). [https://hdl.handle.net/2268/264658](https://hdl.handle.net/2268/264658)
 
 - H. Chen, D. Yao, Y. Lin, G. Wu, S. Ni, and H. Li. Power Capacity Planning on Integrated Multi-Energy System of the Industrial Park. In 2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2), pp. 1076-1081. IEEE, (2021). [10.1109/EI252483.2021.9713384](10.1109/EI252483.2021.9713384)
@@ -40,6 +42,6 @@ Want to **add your own publication**? Then feel free to make a [pull request](/h
 
 - N. Stevanato, F. Lombardi, E. Colombo, S. Balderrama, S. Quoilin, Two-Stage Stochastic Sizing of a Rural Micro-Grid Based on Stochastic Load Generation, 2019 IEEE Milan PowerTech, Milan, Italy, (2019). [https://doi.org/10.1109/PTC.2019.8810571](https://doi.org/10.1109/PTC.2019.8810571)
 
-- Fr. Lombardi, S. Balderrama, S. Quoilin, E. Colombo, Generating high-resolution multi-energy load profiles for remote areas with an open-source stochastic model, Energy (2019), 177, pp.433-444, [https://doi.org/10.1016/j.energy.2019.04.097](https://doi.org/10.1016/j.energy.2019.04.097)
+- F. Lombardi, S. Balderrama, S. Quoilin, E. Colombo, Generating high-resolution multi-energy load profiles for remote areas with an open-source stochastic model, Energy (2019), 177, pp.433-444, [https://doi.org/10.1016/j.energy.2019.04.097](https://doi.org/10.1016/j.energy.2019.04.097)
 
 - F. Lombardi, M. Vincenzo Rocco, E. Colombo, A multi-layer energy modelling methodology to assess the impact of heat-electricity integration strategies: the case of the residential cooking sector in Italy, Energy (2019), [https://doi.org/10.1016/j.energy.2019.01.004](https://doi.org/10.1016/j.energy.2019.01.004)
