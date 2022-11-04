@@ -12,7 +12,7 @@ Want to **add your own publication**? Then feel free to make a [pull request](/h
 
 - M. C. G. Hart, and M. H. Breitner. Fostering Energy Resilience in the Rural Thai Power System—A Case Study in Nakhon Phanom. Energies 15, no. 19 (2022): 7374. [https://doi.org/10.3390/en15197374](https://doi.org/10.3390/en15197374)
 
-- A. Mangipinto, F. Lombardi, F.D. Sanvito, M. Pavičević, S. Quoilin, and E. Colombo. Impact of mass-scale deployment of electric vehicles and benefits of smart charging across all European countries. Applied Energy, (2022), 312, p.118676.
+- A. Mangipinto, F. Lombardi, F.D. Sanvito, M. Pavičević, S. Quoilin, and E. Colombo. Impact of mass-scale deployment of electric vehicles and benefits of smart charging across all European countries. Applied Energy, (2022), 312, p.118676. [https://doi.org/10.1016/j.apenergy.2022.118676](https://doi.org/10.1016/j.apenergy.2022.118676)
 
 - C. Sanchez, N. Stevanato, S. L. Balderrama Subieta, and S. Quoilin. Energy Sufficiency for Rural Communities: The Case of The Bolivian Lowlands. In 16th Conference on sustainable development of energy, water, and environment systems. (2021). [https://hdl.handle.net/2268/264658](https://hdl.handle.net/2268/264658)
 
