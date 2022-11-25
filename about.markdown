@@ -20,7 +20,7 @@ Of course, RAMP has been contributed by many more people throught its evolution.
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
 
-<p><img src="/assets/logos_01.png" width="120" align="right" class="pad-left"/>
+<p><img src="/assets/logos_01.svg" width="120" align="right" class="pad-left"/>
 
 <h style="color: ;"><b>Mid 2018.</b> There is no open-source software to simulate energy demand time series based on partial and uncertain data. We decide to address this gap in a small team of three institutions. The RAMP project is born.</h></p> 
 
@@ -32,7 +32,7 @@ Of course, RAMP has been contributed by many more people throught its evolution.
 <br>
 
 <p><img src="/assets/history_02.png" width="150" align="right" class="pad-left"/>
-<img src="/assets/logos_02.png" width="200" align="left" class="pad-top-right"/>
+<img src="/assets/logos_02.svg" width="200" align="left" class="pad-top-right"/>
 
 <h style="color: ;"><b>Feb 2020.</b> RAMP starts walking on its own legs. Many institutions use it for their own studies.</h></p> 
 <br>
@@ -53,7 +53,7 @@ Of course, RAMP has been contributed by many more people throught its evolution.
 <h style="color: ;"><b>Oct 2021.</b> It is about time for an application to passenger mobility time series. The standalone <a href="https://github.com/RAMP-project/RAMP-mobility">RAMP-mobility application</a> to simulate mobility and charging time series of electric vehicles across Europe is made publicly available. </h></p> 
 <br>
 
-<p><img src="/assets/logos_03.png" width="150" align="right" />
+<p><img src="/assets/logos_03.svg" width="150" align="right" />
 
 <h style="color: ;"><b>Feb 2022.</b> The <a href="https://doi.org/10.1016/j.apenergy.2022.118676">peer-reviewed publication of RAMP-mobility</a>, including its validation, is finally out. New institutions start using both RAMP and RAMP-mobility </h></p> 
 <br>

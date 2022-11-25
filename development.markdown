@@ -11,7 +11,7 @@ The ambition is to make available a **'next-gen' version** of the tool: more use
 
 <div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
 <h style="color: "><b>Highlights from the ongoing next-gen development process</b></h>
-<img src="/assets/logos_dev.png" width="150" align="right" class="pad-top-left"/>
+<img src="/assets/logos_dev.svg" width="150" align="right" class="pad-top-left"/>
 
 <br>
 <br>
