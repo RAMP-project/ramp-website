@@ -18,7 +18,7 @@ Of course, RAMP has been contributed by many more people throught its evolution.
 
 
 
-<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
+<div style="background-color: #F2F2F2; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
 
 <p><img src="/assets/logos_01.svg" width="120" align="right" class="pad-left"/>
 

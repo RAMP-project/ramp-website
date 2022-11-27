@@ -9,7 +9,7 @@ The RAMP project is currently undergoing extensive further development, jointly 
 The ambition is to make available a **'next-gen' version** of the tool: more user-friendly, installable via pip, more easy to customise for different [applications](/applications)!
 
 
-<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
+<div style="background-color: #F2F2F2; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
 <h style="color: "><b>Highlights from the ongoing next-gen development process</b></h>
 <img src="/assets/logos_dev.svg" width="150" align="right" class="pad-top-left"/>
 

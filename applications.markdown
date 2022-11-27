@@ -4,7 +4,7 @@ title: Applications
 permalink: /applications/
 ---
 
-<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
+<div style="background-color: #F2F2F2; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
 <h style="color: "><b>Electricity and heat demand profiles of communities in remote areas</b>
 
 <p><img src="/assets/ramp_cloud.gif" width="400" align="right" class="pad-top-left"/></p>
@@ -28,7 +28,7 @@ We list below some representative case studies in this field.
 </div>
 <div style="background-color: ; text-align:left; vertical-align: middle; padding:20px 20px;" width="350"></div>
 
-<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
+<div style="background-color: #F2F2F2; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
 
 <p><b>Mobility and charging profiles of electric vehicle fleets</b></p>
 
@@ -45,7 +45,7 @@ In a <a href="https://doi.org/10.1016/j.apenergy.2022.118676">recent publication
 
 <div style="background-color: ; text-align:left; vertical-align: middle; padding:20px 20px;" width="350"></div>
 
-<div style="background-color: #EAEAEA; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
+<div style="background-color: #F2F2F2; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
 <p><b>Demand profiles of energy for cooking and domestic hot water in residential buildings</b></p>
 
 RAMP can be also customised to generate other types of energy-use profiles. For instance, it has been used to simulate <a href="https://sentinel.energy/wp-content/uploads/2021/03/D4.2-EC.pdf">cooking</a> or <a href="https://re.public.polimi.it/retrieve/e0c31c0f-a7b8-4599-e053-1705fe0aef77/ECOS2020-lombardi_quoilin_colombo-flexibility%20of%20smart%20p2h%20vpps.pdf">domestic hot water</a> energy consumption profiles for large user aggregates in European countries. 
