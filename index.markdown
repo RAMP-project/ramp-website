@@ -13,11 +13,9 @@ RAMP is an [open-source software suite](https://github.com/RAMP-project)  for th
 
 The project aims to provide synthetic data wherever metered data does not exist, such as when designing systems in remote areas or when looking at future electric-vehicle fleets. Check out all our [applications](/applications)!
 
-
-<p><a href="/applications"><img src="/assets/ramp_world_annotated.png" width="600" class="center"/></a></p>
+<p><a href="/applications"><img src="/assets/ramp_world_nologo.png" width="800" class="center"/></a></p>
 
 <br>
-
 
 ### **The RAMP team**
 
