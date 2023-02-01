@@ -8,6 +8,10 @@ The RAMP software suite has been used for many scientific publications. In this 
 
 Want to **add your own publication**? Then feel free to make a [pull request](/https://github.com/RAMP-project/ramp-website) or contact us.
 
+- M. Pasqui, A. Felice, M. Messagie, T. Coosemans, T. Bastianello, D. Baldi, P. Lubello, C. Carcasci. A New Smart Batteries Management for Renewable Energy Communities. SSRN pre-print (2022) [http://dx.doi.org/10.2139/ssrn.4268979](http://dx.doi.org/10.2139/ssrn.4268979)
+
+- M.C.G. Hart, S. Eckhoff, M.H. Breitner. Accessible decision support for sustainable energy systems in developing countries. Energy Inform 5, 67 (2022). [https://doi.org/10.1186/s42162-022-00255-y](https://doi.org/10.1186/s42162-022-00255-y)
+
 - P. Lubello, M. Pasqui, A. Mati, C. Carcasci, Assessment of hydrogen-based long term electrical energy storage in residential energy systems. Smart Energy, Volume 8, (2022). [https://doi.org/10.1016/j.segy.2022.100088](https://doi.org/10.1016/j.segy.2022.100088)
 
 - M. C. G. Hart, and M. H. Breitner. Fostering Energy Resilience in the Rural Thai Power System—A Case Study in Nakhon Phanom. Energies 15, no. 19 (2022): 7374. [https://doi.org/10.3390/en15197374](https://doi.org/10.3390/en15197374)
