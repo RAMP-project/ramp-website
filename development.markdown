@@ -15,7 +15,7 @@ The ambition is to make available a **'next-gen' version** of the tool: more use
 
 <br>
 <br>
-<p>Already done and available in the <a href="https://github.com/RAMP-project/RAMP/tree/development">'development'</a> branch of the main RAMP repository:
+<p>Already done and available as a new <a href="https://github.com/RAMP-project/RAMP/tree/v0.4.0">v0.4.0 release</a> of the code:
 <br>
 <ul>
   <li>inputs can be defined in an Excel spreadsheet</li>
@@ -23,7 +23,11 @@ The ambition is to make available a **'next-gen' version** of the tool: more use
   <li>profiles can be generated for a whole year with monthly seasonality</li>
   <li>it is possible to provide a date range (start, end) to generate a profile within it</li>
   <li>outputs can be automatically resampled to hourly resolution</li>
-  <li>the code is now also a Python package installable via pip</li>
+  <li>the code is a Python package installable via pip</li>
+  <li>the documentation is expanded and released on readthedocs</li>
+  <li>parallel processing is possible</li>
+  <li>code is faster thanks to vectorising operations</li>
+  <li>new features can be automatically tested against benchmark results</li>
 </ul>
 </p>
 
@@ -31,12 +35,7 @@ The ambition is to make available a **'next-gen' version** of the tool: more use
 <br>
 
 <ul>
-  <li>expanded documentation</li>
-  <li>parallel processing</li>
-  <li>code speedup (vectorising operations)</li>
-  <li>MonteCarlo simulation to get input parameter uncertainty ranges</li>
-  <li>figure of merit to compare two ramp runs</li>
-  <li>bringing back together the various RAMP applications (e.g., RAMP-mobility) as customisation options that all build on the same stochastic 'engine'</li>
+  <li>bringing back together RAMP-mobility as a customisation option that builds on the same stochastic 'engine'</li>
 </ul></p>
 </div>
 <br>
