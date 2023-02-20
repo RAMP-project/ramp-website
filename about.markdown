@@ -58,7 +58,10 @@ Of course, RAMP has been contributed by many more people throught its evolution.
 <h style="color: ;"><b>Feb 2022.</b> The <a href="https://doi.org/10.1016/j.apenergy.2022.118676">peer-reviewed publication of RAMP-mobility</a>, including its validation, is finally out. New institutions start using both RAMP and RAMP-mobility </h></p> 
 <br>
 
-<p><h style="color: ;"><b>Jun 2022.</b></h> TU Delft, the Reiner Lemoine Institut and the VITO Research Center join forces to co-fund the development of a 'next-gen' version of RAMP. More user-friendly and internally reliable, installable via pip as a single software 'engine' with different possible 'applications' (mobility, heat). Stay tuned! </p> 
+<p><h style="color: ;"><b>Jun 2022.</b></h> TU Delft, the Reiner Lemoine Institut and the VITO Research Center join forces to co-fund the development of a 'next-gen' version of RAMP. More user-friendly and efficient, installable via pip and more extensively documented. </p> 
+<br>
+
+<p><h style="color: ;"><b>Feb 2023.</b></h> The first nex-gen version of RAMP is released as <a href="https://github.com/RAMP-project/RAMP/tree/v0.4.0">v0.4.0</a>! See the <a href="/development">development</a> page to discover all the new features. Next step: connect RAMP-mobility to this line of development, making it a plug-and-play application of the base RAMP software. Stay tuned! </p> 
 <br>
 
 </div>
