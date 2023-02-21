@@ -4,14 +4,14 @@ title: development
 permalink: /development/
 ---
 
-The RAMP project is currently undergoing extensive further development, jointly led by TU Delft, the Reiner Lemoine Institut and the VITO Research center. 
+The RAMP project is currently undergoing extensive further development, jointly led by TU Delft, the Reiner Lemoine Institut, the VITO Research center and the University of Liège. 
 
-The ambition is to make available a **'next-gen' version** of the tool: more user-friendly, installable via pip, more easy to customise for different [applications](/applications)!
+The goal is to make available and keep improving a **'next-gen' version** of the tool: more user-friendly, installable via pip, more easy to customise for different [applications](/applications)!
 
 
 <div style="background-color: #F2F2F2; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
 <h style="color: "><b>Highlights from the ongoing next-gen development process</b></h>
-<img src="/assets/logos_dev.svg" width="150" align="right" class="pad-top-left"/>
+<img src="/assets/logos_dev_23.svg" width="150" align="right" class="pad-top-left"/>
 
 <br>
 <br>
