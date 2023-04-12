@@ -34,7 +34,7 @@ We list below some representative case studies in this field.
 
 <p>The other main active field of application of the RAMP project is the generation of mobility and charging profiles of electric vehicles' fleets. The customised version of the software that makes this possible takes its own name of RAMP-mobility and is hosted on a <a href="https://github.com/RAMP-project/RAMP-mobility">repository of its own</a>.
 <br><br>
-In a <a href="https://doi.org/10.1016/j.apenergy.2022.118676">recent publication</a>, we showed how RAMP-mobility can be used to generated such profiles for all European countries based on few, simple data, while accounting for environmental and socio-demographic differences.
+In a <a href="https://doi.org/10.1016/j.apenergy.2022.118676">recent publication</a>, we showed how RAMP-mobility can be used to generate such profiles for all European countries based on few, simple data, while accounting for environmental and socio-demographic differences.
 <br><br>
 <img src="/assets/vehicles.gif" width="700" align="center"/>
 <br>
