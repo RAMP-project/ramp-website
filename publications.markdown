@@ -8,6 +8,12 @@ The RAMP software suite has been used for many scientific publications. In this 
 
 Want to **add your own publication**? Then feel free to make a [pull request](/https://github.com/RAMP-project/ramp-website) or contact us.
 
+- S. Eckhoff, M. C.G. Hart, T. Brauner, T. Kraschewski, M. Heumann, M. H. Breitner, Open access decision support for sustainable buildings and neighborhoods: The nano energy system simulator NESSI, Building and Environment (2023) [https://doi.org/10.1016/j.buildenv.2023.110296](https://doi.org/10.1016/j.buildenv.2023.110296)
+
+- A. Baruah, M. Basu. Modelling of an off-grid roof-top residential photovoltaic nano grid system for an urban locality in India. Energy for Sustainable Development (2023) [https://doi.org/10.1016/j.esd.2023.05.004](https://doi.org/10.1016/j.esd.2023.05.004)
+
+- A. Baruah, M. Basu. Tool-based renewable energy system planning using survey data: A case study in rural Vietnam. AIP Conference Proceedings (2023) [https://doi.org/10.1063/5.0145639](https://doi.org/10.1063/5.01456394)
+
 - M.C.G. Hart, S. Eckhoff, M.H. Breitner. Tool-based renewable energy system planning using survey data: A case study in rural Vietnam. Environment Development and Sustainability (2023) [https://doi.org/10.1007/s10668-023-03120-4](https://doi.org/10.1007/s10668-023-03120-4)
 
 - M. Pasqui, A. Felice, M. Messagie, T. Coosemans, T. Bastianello, D. Baldi, P. Lubello, C. Carcasci. A New Smart Batteries Management for Renewable Energy Communities. Sustainable Energy, Grids and Networks (2023) [https://doi.org/10.1016/j.segan.2023.101043](https://doi.org/10.1016/j.segan.2023.101043)
