@@ -65,11 +65,11 @@ Of course, RAMP has been contributed by many more people throught its evolution.
 <p><h style="color: ;"><b>Feb 2023.</b></h> The first nex-gen version of RAMP is released as <a href="https://github.com/RAMP-project/RAMP/tree/v0.4.0">v0.4.0</a>! See the <a href="/development">development</a> page to discover all the new features. Next step: connect RAMP-mobility to this line of development, making it a plug-and-play application of the base RAMP software. Stay tuned! </p> 
 <br>
 
-<p><a href="https://nessi.iwi.uni-hannover.de/en/ramp/start/"><img src="/assets/gui_example.png" width="200" align="left" class="pad-right" /></a>
+<p><a href="https://nessi.iwi.uni-hannover.de/en/ramp/start/"><img src="/assets/gui_example.png" width="180" align="left" class="pad-right" /></a>
 <br>
 <img src="/assets/logos_04.svg" width="110" align="right" class="pad-left"/>
 
-<h style="color: ;"><b>Jun 2023.</b></h> New institutions use RAMP and RAMP-mobility, develop graphical interfaces for use with the public or industry and join our <a href="/development">development</a> process. More publications based on RAMP pop up around the world. </p> 
+<h style="color: ;"><b>Jun 2023.</b></h> New institutions reuse RAMP and RAMP-mobility, develop interfaces for use with the public or industry and join our <a href="/development">development</a> process. More publications based on RAMP pop up around the world. </p> 
 <br>
 
 </div>
