@@ -9,8 +9,9 @@ The RAMP project is currently contributed and co-funded by several people. The m
 - [Francesco Lombardi](https://flombardi.org) (TU Delft)
 - [Pierre-françois Duc](https://reiner-lemoine-institut.de/pierre-francois-duc/) (Reiner Lemoine Institut)
 - [Gregory Ireland](https://reiner-lemoine-institut.de/en/about-us/team/gregory-ireland/) (Reiner Lemoine Institut)
-- [Mohammad Amin Tahavori](https://www.linkedin.com/in/mohammadamintahavori?originalSubdomain=it) (VITO)
-- [Francesco Davide Sanvito](https://www.researchgate.net/profile/Francesco-Sanvito) (TU Delft)
+- [Mohammad Amin Tahavori](https://vito.be/en/employee/mohammad-amin-tahavori) (VITO)
+- [Claudia Sanchez Solis](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u241527) (University of Liège)
+- [Francesco Davide Sanvito](https://www.tudelft.nl/en/staff/f.sanvito/?cHash=62a23e30e06fb3dadba6ccb802244d0c) (TU Delft)
 - [Sylvain Quoilin](http://www.squoilin.eu) (University of Liège)
 
 
@@ -58,10 +59,17 @@ Of course, RAMP has been contributed by many more people throught its evolution.
 <h style="color: ;"><b>Feb 2022.</b> The <a href="https://doi.org/10.1016/j.apenergy.2022.118676">peer-reviewed publication of RAMP-mobility</a>, including its validation, is finally out. New institutions start using both RAMP and RAMP-mobility </h></p> 
 <br>
 
-<p><h style="color: ;"><b>Jun 2022.</b></h> TU Delft, the Reiner Lemoine Institut, the VITO Research Center and the University of Liège join forces to co-fund the development of a 'next-gen' version of RAMP. More user-friendly and efficient, installable via pip and more extensively documented. </p> 
+<p><h style="color: ;"><b>Jun 2022.</b></h> TU Delft, the Reiner Lemoine Institut, the VITO Research Center and the University of Liège join forces to co-fund the development of a <a href="/development">'next-gen' version of RAMP</a>. More user-friendly and efficient, installable via pip and more extensively documented. </p> 
 <br>
 
 <p><h style="color: ;"><b>Feb 2023.</b></h> The first nex-gen version of RAMP is released as <a href="https://github.com/RAMP-project/RAMP/tree/v0.4.0">v0.4.0</a>! See the <a href="/development">development</a> page to discover all the new features. Next step: connect RAMP-mobility to this line of development, making it a plug-and-play application of the base RAMP software. Stay tuned! </p> 
+<br>
+
+<p><a href="https://nessi.iwi.uni-hannover.de/en/ramp/start/"><img src="/assets/gui_example.png" width="200" align="left" class="pad-right" /></a>
+<br>
+<img src="/assets/logos_04.svg" width="110" align="right" class="pad-left"/>
+
+<h style="color: ;"><b>Jun 2023.</b></h> New institutions use RAMP and RAMP-mobility, develop graphical interfaces for use with the public or industry and join our <a href="/development">development</a> process. More publications based on RAMP pop up around the world. </p> 
 <br>
 
 </div>
