@@ -6,7 +6,7 @@ permalink: /publications/
 
 The RAMP software suite has been used for many scientific publications. In this page, we list the publicly available work based on RAMP which we are aware of. 
 
-Want to **add your own publication**? Then feel free to make a [pull request](/https://github.com/RAMP-project/ramp-website) or contact us.
+Want to **add your own publication**? Then feel free to make a [pull request](https://github.com/RAMP-project/ramp-website) or contact us.
 
 - S. Eckhoff, M. C.G. Hart, T. Brauner, T. Kraschewski, M. Heumann, M. H. Breitner, Open access decision support for sustainable buildings and neighborhoods: The nano energy system simulator NESSI, Building and Environment (2023) [https://doi.org/10.1016/j.buildenv.2023.110296](https://doi.org/10.1016/j.buildenv.2023.110296)
 
