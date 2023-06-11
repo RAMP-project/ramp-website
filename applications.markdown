@@ -5,7 +5,7 @@ permalink: /applications/
 ---
 
 <div style="background-color: #F2F2F2; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
-<h style="color: "><b>Electricity and heat demand profiles of communities in remote areas</b>
+<h style="color: "><b>Electricity and heat demand profiles from neighbourhoods to towns</b>
 
 <p><img src="/assets/ramp_cloud.gif" width="400" align="right" class="pad-top-left"/></p>
 
