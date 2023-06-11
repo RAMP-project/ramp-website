@@ -10,7 +10,7 @@ permalink: /applications/
 <p><img src="/assets/ramp_cloud.gif" width="400" align="right" class="pad-top-left"/></p>
 
 
-RAMP was initially designed and is still mainly used to simulate electricity (and heat) demand profiles in remote areas at the community scale. This default version of the software is accessible <a href="https://github.com/RAMP-project/RAMP">here</a>.
+RAMP's core application is the simulation of electricity (and heat) demand profiles at the neighbourhood-to-town scale. This default version of the software is accessible <a href="https://github.com/RAMP-project/RAMP">here</a>.
 
 <br><br>
 We list below some representative case studies in this field.
@@ -18,11 +18,14 @@ We list below some representative case studies in this field.
 
 
 <ul>
-  <li>The simulation of the <a href="https://doi.org/10.1016/j.energy.2019.04.097">electrical load of the El Espino community</a>, which also validated the software engine.</li>
+  <li>The simulation of the <a href="https://doi.org/10.1016/j.energy.2019.04.097">electrical load of the off-grid El Espino village</a>, which also validated the software engine.</li>
+  <br>
+  <li>The simulation of the electrical load of a <a href="https://doi.org/10.1016/j.segan.2023.101043">residential neighbourhood in Florence, Italy</a>.</li>
   <br>
   <li>The simulation of both <a href="https://doi.org/10.3390/app10217445">electricity and domestic hot water</a> loads for the Chilean village of Toconao.</li>
   <br>
-  <li>The customisation of the software to generate stochastic scenarios for how the <a href="https://doi.org/10.1016/j.esd.2020.07.002">load might evolve over the years</a>, accounting for uncertain parameters.</li>
+  <li>The customisation of the software to generate stochastic scenarios for how the <a href="https://doi.org/10.1016/j.esd.2020.07.002">load of an off-grid community might evolve over the years</a>, accounting for uncertain parameters.</li>
+  
 </ul>
 </h>
 </div>
@@ -32,13 +35,16 @@ We list below some representative case studies in this field.
 
 <p><b>Mobility and charging profiles of electric vehicle fleets</b></p>
 
-<p>The other main active field of application of the RAMP project is the generation of mobility and charging profiles of electric vehicles' fleets. The customised version of the software that makes this possible takes its own name of RAMP-mobility and is hosted on a <a href="https://github.com/RAMP-project/RAMP-mobility">repository of its own</a>.
-<br><br>
-In a <a href="https://doi.org/10.1016/j.apenergy.2022.118676">recent publication</a>, we showed how RAMP-mobility can be used to generate such profiles for all European countries based on few, simple data, while accounting for environmental and socio-demographic differences.
-<br><br>
-<img src="/assets/vehicles.gif" width="700" align="center"/>
+<p>The other main active field of application of the RAMP project is the generation of mobility and charging profiles of electric vehicles' fleets, with fleet size ranging from neighbourhoods to entire countries. The customised version of the software that makes this possible is named RAMP-mobility, and it is hosted on a <a href="https://github.com/RAMP-project/RAMP-mobility">repository of its own</a>.
 <br>
-
+<ul>
+  <li> In a <a href="https://doi.org/10.1016/j.apenergy.2022.118676">recent publication</a>, we showed how RAMP-mobility can be used to generate such profiles for all European countries based on few, simple data, while accounting for environmental and socio-demographic differences.</li>
+  <br>
+  <img src="/assets/vehicles.gif" width="700" align="center"/>
+  <br><br>
+  
+  <li> Others have applied the tool to simulate electric vehicles' demand scenarios for a <a href="https://doi.org/10.3390/en14082326">residential district in Bolzano</a>.</li>
+</ul>
 </p>
 
 </div>
