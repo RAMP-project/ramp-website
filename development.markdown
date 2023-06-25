@@ -4,7 +4,7 @@ title: development
 permalink: /development/
 ---
 
-The RAMP project is currently undergoing extensive further development, jointly led by TU Delft, the Reiner Lemoine Institut, the VITO Research, the University of Liège and Sympheny. 
+The RAMP project is currently undergoing extensive further development, jointly led by TU Delft, the Reiner Lemoine Institut, VITO, the University of Liège and Sympheny. 
 
 We have recently released a **'next-gen' version** of the tool: more user-friendly, installable via pip, more easy to customise for different [applications](/applications)! We aim to keep improving and expanding the tool, leveraging the diverse expertise of our multi-institution team.
 
