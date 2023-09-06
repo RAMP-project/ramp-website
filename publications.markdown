@@ -8,6 +8,8 @@ The RAMP software suite has been used for many scientific publications. In this 
 
 Want to **add your own publication**? Then feel free to make a [pull request](https://github.com/RAMP-project/ramp-website) or contact us.
 
+- J. Villarroel-Schneider, S. Balderrama, C. Sanchez, E. Cardozo, A. Malmquist, A. Martin, Open-source model applied for techno-economic optimization of a hybrid solar PV biogas-based polygeneration plant: The case of a dairy farmers’ association in central Bolivia, Energy Conversion and Management (2023) [https://doi.org/10.1016/j.enconman.2023.117223](https://doi.org/10.1016/j.enconman.2023.117223) 
+
 - M.C.G. Hart, S. Eckhoff, M.H. Breitner, Sustainable Energy System Planning in Developing Countries: Facilitating Load Profile Generation in Energy System Simulations, Proceedings of the 56th Hawaii International Conference on System Sciences (2023) [https://hdl.handle.net/10125/102726](https://hdl.handle.net/10125/102726)
 
 - S. Eckhoff, M.C.G. Hart, T. Brauner, T. Kraschewski, M. Heumann, M. H. Breitner, Open access decision support for sustainable buildings and neighborhoods: The nano energy system simulator NESSI, Building and Environment (2023) [https://doi.org/10.1016/j.buildenv.2023.110296](https://doi.org/10.1016/j.buildenv.2023.110296)
