@@ -10,6 +10,8 @@ Want to **add your own publication**? Then feel free to make a [pull request](ht
 
 - J. Villarroel-Schneider, S. Balderrama, C. Sanchez, E. Cardozo, A. Malmquist, A. Martin, Open-source model applied for techno-economic optimization of a hybrid solar PV biogas-based polygeneration plant: The case of a dairy farmers’ association in central Bolivia, Energy Conversion and Management (2023) [https://doi.org/10.1016/j.enconman.2023.117223](https://doi.org/10.1016/j.enconman.2023.117223) 
 
+- C. Sanchez, P. Di Betta, N. Stevanato, S. Balderrama, E. Colombo, S. Quoilin, Electricity demand forecasting for rural communities in developing countries: Calibrating a stochastic model for the Bolivian case, Proceedings of the 36th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (2023) [https://hdl.handle.net/2268/306259](https://hdl.handle.net/2268/306259) 
+
 - M.C.G. Hart, S. Eckhoff, M.H. Breitner, Sustainable Energy System Planning in Developing Countries: Facilitating Load Profile Generation in Energy System Simulations, Proceedings of the 56th Hawaii International Conference on System Sciences (2023) [https://hdl.handle.net/10125/102726](https://hdl.handle.net/10125/102726)
 
 - S. Eckhoff, M.C.G. Hart, T. Brauner, T. Kraschewski, M. Heumann, M. H. Breitner, Open access decision support for sustainable buildings and neighborhoods: The nano energy system simulator NESSI, Building and Environment (2023) [https://doi.org/10.1016/j.buildenv.2023.110296](https://doi.org/10.1016/j.buildenv.2023.110296)
