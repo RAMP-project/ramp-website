@@ -23,7 +23,7 @@ Born as a small side project, RAMP is now a multi-institution software developme
 
 <br>
 
-<p><img src="/assets/map.png" width="250" align="right" class="pad-left"/></p>
+<p><img src="/assets/user_map.png" width="300" align="right" class="pad-left"/></p>
 
 ### **Join the community!**
 
