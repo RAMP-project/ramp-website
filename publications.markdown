@@ -8,7 +8,9 @@ The RAMP software suite has been used for many scientific publications. In this 
 
 Want to **add your own publication**? Then feel free to make a [pull request](https://github.com/RAMP-project/ramp-website) or contact us.
 
-- A. Dimovski, S. Corigliano, D. Edeme, M. Merlo, Holistic MILP-based approach for rural electrification planning,Energy Strategy Reviews (2023). [https://doi.org/10.1016/j.esr.2023.101171](https://doi.org/10.1016/j.esr.2023.101171)
+- M. Secchi, G. Barchi, D. Macii, D. Petri, Smart electric vehicles charging with centralised vehicle-to-grid capability for net-load variance minimisation under increasing EV and PV penetration levels, Sustainable Energy, Grids and Networks (2023). [https://doi.org/10.1016/j.segan.2023.101120](https://doi.org/10.1016/j.segan.2023.101120)
+
+- A. Dimovski, S. Corigliano, D. Edeme, M. Merlo, Holistic MILP-based approach for rural electrification planning, Energy Strategy Reviews (2023). [https://doi.org/10.1016/j.esr.2023.101171](https://doi.org/10.1016/j.esr.2023.101171)
 
 - J. Villarroel-Schneider, S. Balderrama, C. Sanchez, E. Cardozo, A. Malmquist, A. Martin, Open-source model applied for techno-economic optimization of a hybrid solar PV biogas-based polygeneration plant: The case of a dairy farmers’ association in central Bolivia, Energy Conversion and Management (2023). [https://doi.org/10.1016/j.enconman.2023.117223](https://doi.org/10.1016/j.enconman.2023.117223) 
 
