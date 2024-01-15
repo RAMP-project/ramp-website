@@ -8,6 +8,14 @@ The RAMP software suite has been used for many scientific publications. In this 
 
 Want to **add your own publication**? Then feel free to make a [pull request](https://github.com/RAMP-project/ramp-website) or contact us.
 
+- G. Crevani, C. Soares, E. Colombo, Modelling financing schemes for energy system planning: a mini-grid case study, Proceedings of ECOS 2023 (2023). [https://doi.org/10.52202/069564-0178](https://doi.org/10.52202/069564-0178)
+
+- A. Baruah, M. Basu, Techno-economic investigation of an off-grid hybrid renewable energy system for electrification of a grocery shop, AIP Conference Proceedings (2023). [https://doi.org/10.1063/5.0145639](https://doi.org/10.1063/5.0145639)
+
+- A. Baruah, M. Basu, Techno-economic investigation of configuration changes of an off-grid renewable energy system for electrification of a household with changes in appliance user behavior, AIP Conference Proceedings (2023). [https://doi.org/10.1063/5.0145640](https://doi.org/10.1063/5.0145640)
+
+- S. M. T. Faisal, A. Maran, J. Ehnberg, Peak Shaving and E-Cooker as Sustainable Solutions for Off-Grid Electricity in Bangladesh, 2023 IEEE PES/IAS PowerAfrica (2023). [https://doi.org/10.1109/PowerAfrica57932.2023.10363250](https://doi.org/10.1109/PowerAfrica57932.2023.10363250).
+
 - M. Secchi, G. Barchi, D. Macii, D. Petri, Smart electric vehicles charging with centralised vehicle-to-grid capability for net-load variance minimisation under increasing EV and PV penetration levels, Sustainable Energy, Grids and Networks (2023). [https://doi.org/10.1016/j.segan.2023.101120](https://doi.org/10.1016/j.segan.2023.101120)
 
 - A. Dimovski, S. Corigliano, D. Edeme, M. Merlo, Holistic MILP-based approach for rural electrification planning, Energy Strategy Reviews (2023). [https://doi.org/10.1016/j.esr.2023.101171](https://doi.org/10.1016/j.esr.2023.101171)
