@@ -8,6 +8,12 @@ The RAMP software suite has been used for many scientific publications. In this 
 
 Want to **add your own publication**? Then feel free to make a [pull request](https://github.com/RAMP-project/ramp-website) or contact us.
 
+- N. Stevanato, I. Sangiorgio, R. Mereu, E. Colombo, Archetypes of Rural Users in Sub-Saharan Africa for Load Demand Estimation, IEEE Power Africa (2023). [https://doi.org/10.1109/PowerAfrica57932.2023.10363287](https://doi.org/10.1109/PowerAfrica57932.2023.10363287)
+
+- N. Stevanato, R. Mereu, A. Brasco, A. Muumbo, A. Onori, E. Colombo, Access to Electricity in Informal Settlements: Literature Review and Load Curve Estimation, IEEE Power Africa (2023). [https://doi.org/10.1109/PowerAfrica57932.2023.10363327](https://doi.org/10.1109/PowerAfrica57932.2023.10363327)
+
+- C. L. Sanchez Solis, P. Di Betta, N. Stevanato, S. L. Balderrama Subieta, E. Colombo,  S. Quoilin, Electricity demand forecasting for rural communities in developing countries: Calibrating a stochastic model for the Bolivian case, Proceedings of ECOS 2023 (2023). [https://doi.org/10.52202/069564-0176](https://doi.org/10.52202/069564-0176)
+
 - G. Crevani, C. Soares, E. Colombo, Modelling financing schemes for energy system planning: a mini-grid case study, Proceedings of ECOS 2023 (2023). [https://doi.org/10.52202/069564-0178](https://doi.org/10.52202/069564-0178)
 
 - A. Baruah, M. Basu, Techno-economic investigation of an off-grid hybrid renewable energy system for electrification of a grocery shop, AIP Conference Proceedings (2023). [https://doi.org/10.1063/5.0145639](https://doi.org/10.1063/5.0145639)
