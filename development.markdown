@@ -4,9 +4,9 @@ title: development
 permalink: /development/
 ---
 
-The RAMP project is currently undergoing extensive further development, jointly led by TU Delft, the Reiner Lemoine Institut, VITO, the University of Liège, Sympheny and Leibniz University Hannover. 
+The RAMP project is currently undergoing extensive further development, jointly led by TU Delft, the Reiner Lemoine Institut, VITO, the University of Liège, and the Leibniz University Hannover. 
 
-We have recently released a **'next-gen' version** of the tool: more user-friendly, installable via pip, more easy to customise for different [applications](/applications)! We aim to keep improving and expanding the tool, leveraging the diverse expertise of our multi-institution team.
+These joint developments have been recently formalised in RAMP's publication in the [Journal of Open Source Software](https://doi.org/10.21105/joss.06418), alongside a **brand new version** of the tool: more extensively documented, richer in visualisation options, and more easy to customise for different [applications](/applications)! We aim to keep improving and expanding the tool, leveraging the diverse expertise of our multi-institution team.
 
 
 <div style="background-color: #F2F2F2; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
@@ -15,22 +15,21 @@ We have recently released a **'next-gen' version** of the tool: more user-friend
 
 <br>
 <br>
-<p>Already done and available as a new <a href="https://github.com/RAMP-project/RAMP/tree/v0.5.0">v0.5.0 release</a> of the code:
+<p>Already done and available as a new <a href="https://github.com/RAMP-project/RAMP/tree/v0.5.2">v0.5.2 release</a> of the code:
 <br>
 <ul>
   <li>inputs can be defined in tabular (.xslx) format</li>
-  <li>input parameters are better defined and described in the code</li>
-  <li>profiles can be generated for a whole year with monthly seasonality</li>
-  <li>it is possible to provide a date range (start, end) to generate a profile within it</li>
-  <li>outputs can be automatically resampled to hourly resolution</li>
+  <li>outputs can be easily post-processed and plotted</li>
   <li>the code is a Python package installable via pip</li>
   <li>the documentation is expanded and released on readthedocs</li>
   <li>parallel processing is possible</li>
   <li>code is faster thanks to vectorising operations</li>
-  <li>new features can be automatically tested against benchmark results</li>
-  <li>a new UseCase class allows grouping multiple User instances and performing operations on those</li>
-  <li>new, in-built plotting library</li>
+  <li>a new UseCase class allows grouping multiple Users and performing operations on those</li>
   <li>web-based graphical user interface for basic functionalities</li>
+  <li>random-seed functionality to ensure reproducible results if needed</li>
+  <li>more examples as Jupyter notebooks in the documentation</li>
+  <li>new features to model productive uses, such as continuously operating machines </li>
+  <li>expanded internal test coverage for higher code reliablity</li>
 </ul>
 </p>
 
@@ -40,7 +39,6 @@ We have recently released a **'next-gen' version** of the tool: more user-friend
 <ul>
   <li>bringing back together RAMP-mobility as a customisation option that builds on the same stochastic 'engine'</li>
   <li>further developing the 'heat' features</li>
-  <li>new functionalities for loads related to 'productive uses'</li>
   <li>application and possible new functionalities for non-energy loads, such as water demand</li>
 </ul></p>
 </div>
