@@ -4,18 +4,9 @@ title: about
 permalink: /about/
 ---
 
-The RAMP project is currently contributed and co-funded by several people. The main active developers and project leaders, are listed below. 
+The RAMP project is currently contributed and co-funded by several people. We acknowledge the main contributors to the latest version of the software in the recent publication in the [Journal of Open Source Software](https://doi.org/10.21105/joss.06418). 
 
-- [Francesco Lombardi](https://flombardi.org) (TU Delft)
-- [Pierre-françois Duc](https://reiner-lemoine-institut.de/pierre-francois-duc/) (Reiner Lemoine Institut)
-- [Gregory Ireland](https://reiner-lemoine-institut.de/en/about-us/team/gregory-ireland/) (Reiner Lemoine Institut)
-- [Mohammad Amin Tahavori](https://vito.be/en/employee/mohammad-amin-tahavori) (VITO)
-- [Claudia Sanchez Solis](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u241527) (University of Liège)
-- [Francesco Davide Sanvito](https://www.tudelft.nl/en/staff/f.sanvito/?cHash=62a23e30e06fb3dadba6ccb802244d0c) (TU Delft)
-- [Sylvain Quoilin](http://www.squoilin.eu) (University of Liège)
-
-
-Of course, RAMP has been contributed by many more people throught its evolution. Code contributors are acknowledged on [GitHub](https://github.com/RAMP-project). Other collaborators and scientific advisors who did not necessarily contribute to the Python code are featured in the peer-reviewed publications. You can get an overview of RAMP's history below.
+Of course, many more people have contributed to RAMP throughout its evolution. We acknowledge all code contributors on [GitHub](https://github.com/RAMP-project), while other collaborators who did not necessarily contribute to the code are featured in the scientific publications. You can get an overview of RAMP's history below.
 
 
 
@@ -70,6 +61,10 @@ Of course, RAMP has been contributed by many more people throught its evolution.
 <img src="/assets/logos_04.svg" width="110" align="right" class="pad-left"/>
 
 <h style="color: ;"><b>Jun 2023.</b></h> New institutions reuse RAMP and RAMP-mobility, develop interfaces for use with the public or industry and join our <a href="/development">development</a> process. More publications based on RAMP pop up around the world. </p> 
+<br>
+
+<p><a href="https://doi.org/10.21105/joss.06418"><img src="/assets/logo_joss.png" width="110" align="right"/></a>
+<h style="color: ;"><b>Jun 2024.</b></h> RAMP's code is peer-reviewed, published in the <a href="https://doi.org/10.21105/joss.06418">Journal of Open Source Software</a>, and released in a new, further enhanced version. This formalises RAMP as a co-development project contributed by many people and institutions. </p> 
 <br>
 
 </div>
