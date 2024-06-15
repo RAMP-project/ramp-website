@@ -8,6 +8,16 @@ The RAMP software suite has been used for many scientific publications. In this 
 
 Want to **add your own publication**? Then feel free to make a [pull request](https://github.com/RAMP-project/ramp-website) or contact us.
 
+- F. Lombardi, P.F. Duc, M.A. Tahavori, C. Sanchez-Solis, S. Eckhoff, M.C. Hart, F.D. Sanvito, G. Ireland, S. Balderrama, J. Kraft, G. Dhungel, and S. Quoilin, RAMP: stochastic simulation of user-driven energy demand time series, Journal of Open Source Software (2024). [https://doi.org/10.21105/joss.06418](https://doi.org/10.21105/joss.06418)
+
+- L. Rinaldi, N. Golinucci, G. Guerrieri, F.D. Sanvito, M.V. Rocco, and E. Colombo, When are battery electric vehicles economically convenient? A sensitivity analysis based on multi-carrier residential energy system renovation modelling, Energy Reports (2024). [https://doi.org/10.1016/j.egyr.2024.01.025](https://doi.org/10.1016/j.egyr.2024.01.025)
+
+- M.C. Hart, S. Eckhoff, and M.H. Breitner, Tool-based renewable energy system planning using survey data: a case study in rural Vietnam, Environment, Development and Sustainability (2024). [https://doi.org/10.1007/s10668-023-03120-4](https://doi.org/10.1007/s10668-023-03120-4)
+
+- K. Lammers, A. Linke, A. Andrade, and C. Cader, Increasing electricity access for health facilities in Ghana through solar powered mini-grids-a GIS-based energy system modelling approach, Environmental Research: Infrastructure and Sustainability (2024). [https://doi.org/10.1088/2634-4505/ad4391](https://doi.org/10.1088/2634-4505/ad4391)
+
+-  W.J. Bonzi, S. Romuli, D. Diouf, B. Piriou, K. Meissner, and J. Müller, Computational sizing of solar powered peanut oil extraction in Senegal using a synthetic load profile, Energy for Sustainable Development (2024). [https://doi.org/10.1016/j.heliyon.2024.e27440](https://doi.org/10.1016/j.heliyon.2024.e27440)
+
 - N. Stevanato, I. Sangiorgio, R. Mereu, E. Colombo, Archetypes of Rural Users in Sub-Saharan Africa for Load Demand Estimation, IEEE Power Africa (2023). [https://doi.org/10.1109/PowerAfrica57932.2023.10363287](https://doi.org/10.1109/PowerAfrica57932.2023.10363287)
 
 - N. Stevanato, R. Mereu, A. Brasco, A. Muumbo, A. Onori, E. Colombo, Access to Electricity in Informal Settlements: Literature Review and Load Curve Estimation, IEEE Power Africa (2023). [https://doi.org/10.1109/PowerAfrica57932.2023.10363327](https://doi.org/10.1109/PowerAfrica57932.2023.10363327)
