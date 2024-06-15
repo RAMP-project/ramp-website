@@ -6,16 +6,16 @@ permalink: /development/
 
 The RAMP project is currently undergoing extensive further development, jointly led by TU Delft, the Reiner Lemoine Institut, VITO, the University of Liège, and the Leibniz University Hannover. 
 
-These joint developments have been recently formalised in RAMP's publication in the [Journal of Open Source Software](https://doi.org/10.21105/joss.06418), alongside a **brand new version** of the tool: more extensively documented, richer in visualisation options, and more easy to customise for different [applications](/applications)! We aim to keep improving and expanding the tool, leveraging the diverse expertise of our multi-institution team.
+These joint developments have been recently formalised in RAMP's publication in the [Journal of Open Source Software](https://doi.org/10.21105/joss.06418), alongside a **brand new version** of the tool: more extensively documented, richer in visualisation options, and more easy to customise for different [applications](/applications)! We'll keep improving and expanding the tool, leveraging the diverse expertise of our multi-institution team.
 
 
 <div style="background-color: #F2F2F2; text-align:left; vertical-align: middle; padding:20px 20px;" width="350">
-<h style="color: "><b>Highlights from the ongoing next-gen development process</b></h>
-<img src="/assets/logos_dev_23.svg" width="180" align="right" class="pad-top-left"/>
+<h style="color: "><b>Recent highlights from the ongoing development process</b></h>
+<img src="/assets/logos_dev.svg" width="180" align="right" class="pad-top-left"/>
 
 <br>
 <br>
-<p>Already done and available as a new <a href="https://github.com/RAMP-project/RAMP/tree/v0.5.2">v0.5.2 release</a> of the code:
+<p>Already done and available in the new <a href="https://github.com/RAMP-project/RAMP/tree/v0.5.2">v0.5.2 release</a> of the code:
 <br>
 <ul>
   <li>inputs can be defined in tabular (.xslx) format</li>
