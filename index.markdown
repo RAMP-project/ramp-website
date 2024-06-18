@@ -19,7 +19,7 @@ The project aims to provide synthetic data wherever metered data does not exist,
 
 ### **The RAMP team**
 
-Born as a small side project, RAMP is now a multi-institution software development effort. We are working to make RAMP even more user-friendly and internally reliable. You can learn more on RAMP's [development history](/about) and the ongoing ['next-gen' co-development process](/development) on this website.
+Born as a small side project, RAMP is now a multi-institution software development effort. We are working to make RAMP even more user-friendly and internally reliable. You can learn more on RAMP's [development history](/about) and the ongoing [co-development process](/development) on this website.
 
 <br>
 

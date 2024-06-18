@@ -4,7 +4,7 @@ title: development
 permalink: /development/
 ---
 
-The RAMP project is currently undergoing extensive further development, jointly led by TU Delft, the Reiner Lemoine Institut, VITO, the University of Liège, and the Leibniz University Hannover. 
+The RAMP project is currently undergoing extensive further development, jointly led by TU Delft, the Reiner Lemoine Institut, VITO, the University of Liège, the Universidad Mayor de San Simón, and the Leibniz University Hannover. 
 
 These joint developments have been recently formalised in RAMP's publication in the [Journal of Open Source Software](https://doi.org/10.21105/joss.06418), alongside a **brand new version** of the tool: more extensively documented, richer in visualisation options, and more easy to customise for different [applications](/applications)! We'll keep improving and expanding the tool, leveraging the diverse expertise of our multi-institution team.
 
