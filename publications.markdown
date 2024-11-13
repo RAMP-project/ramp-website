@@ -8,6 +8,18 @@ The RAMP software suite has been used for many scientific publications. In this 
 
 Want to **add your own publication**? Then feel free to make a [pull request](https://github.com/RAMP-project/ramp-website) or contact us.
 
+- A. Belman Martínez, H.L. MacLean and I.D. Posen, Energy system models should consider evolving charging profiles, Environmental Research: Energy (2024), [https://doi.org/10.1088/2753-3751/ad7ebd](https://doi.org/10.1088/2753-3751/ad7ebd)
+
+- A. Dimovski, Z. Pezham, M. Ahmadi, L.M.F. Albertini, D.I. Edeme and M. Merlo, GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia, Energy for Sustainable Development (2024), [https://doi.org/10.1016/j.esd.2024.101520](https://doi.org/10.1016/j.esd.2024.101520)
+
+- I. Pizzuti, A. Corsini, G. Delibra and E. Tajalli-Ardekani, Integration of photovoltaic panels and biomass-fuelled CHP in an Italian renewable energy community, Energy Conversion and Management: X (2024), [https://doi.org/10.1016/j.ecmx.2024.10069](https://doi.org/10.1016/j.ecmx.2024.10069)
+
+- K. Lammers, A. Linke, A. Andrade and Catherina Cader, Increasing electricity access for health facilities in Ghana through solar powered mini-grids—a GIS-based energy system modelling approach, Environmental Research: Infrastructure and Sustainability (2024), [https://doi.org/10.1088/2634-4505/ad4391](https://doi.org/10.1088/2634-4505/ad4391)
+
+- M. Huseina, M. Moner-Girona, G. Falchettac, N. Stevanato, F. Fahlf and S. Szabó, The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study, Heliyon (2024), [https://doi.org/10.1016/j.heliyon.2024.e27440](https://doi.org/10.1016/j.heliyon.2024.e27440)
+
+- I. Fuchs, C. Sanchez-Solis, S. Balderrama, G. Valkenburg, Swarm electrification for Raqaypampa: Impact of different battery control setpoints on energy sharing in interconnected solar homes systems, Sustainable Energy, Grids and Networks (2024) [https://doi.org/10.1016/j.segan.2024.101535](https://doi.org/10.1016/j.segan.2024.101535).
+
 - F. Lombardi, P.F. Duc, M.A. Tahavori, C. Sanchez-Solis, S. Eckhoff, M.C. Hart, F.D. Sanvito, G. Ireland, S. Balderrama, J. Kraft, G. Dhungel, and S. Quoilin, RAMP: stochastic simulation of user-driven energy demand time series, Journal of Open Source Software (2024). [https://doi.org/10.21105/joss.06418](https://doi.org/10.21105/joss.06418)
 
 - L. Rinaldi, N. Golinucci, G. Guerrieri, F.D. Sanvito, M.V. Rocco, and E. Colombo, When are battery electric vehicles economically convenient? A sensitivity analysis based on multi-carrier residential energy system renovation modelling, Energy Reports (2024). [https://doi.org/10.1016/j.egyr.2024.01.025](https://doi.org/10.1016/j.egyr.2024.01.025)
