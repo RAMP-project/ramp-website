@@ -12,7 +12,7 @@ Want to **add your own publication**? Then feel free to make a [pull request](ht
 
 - A. Dimovski, Z. Pezham, M. Ahmadi, L.M.F. Albertini, D.I. Edeme and M. Merlo, GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia, Energy for Sustainable Development (2024), [https://doi.org/10.1016/j.esd.2024.101520](https://doi.org/10.1016/j.esd.2024.101520)
 
-- I. Pizzuti, A. Corsini, G. Delibra and E. Tajalli-Ardekani, Integration of photovoltaic panels and biomass-fuelled CHP in an Italian renewable energy community, Energy Conversion and Management: X (2024), [https://doi.org/10.1016/j.ecmx.2024.10069](https://doi.org/10.1016/j.ecmx.2024.10069)
+- I. Pizzuti, A. Corsini, G. Delibra and E. Tajalli-Ardekani, Integration of photovoltaic panels and biomass-fuelled CHP in an Italian renewable energy community, Energy Conversion and Management: X (2024), [https://doi.org/10.1016/j.ecmx.2024.100696](https://doi.org/10.1016/j.ecmx.2024.100696)
 
 - K. Lammers, A. Linke, A. Andrade and Catherina Cader, Increasing electricity access for health facilities in Ghana through solar powered mini-grids—a GIS-based energy system modelling approach, Environmental Research: Infrastructure and Sustainability (2024), [https://doi.org/10.1088/2634-4505/ad4391](https://doi.org/10.1088/2634-4505/ad4391)
 
