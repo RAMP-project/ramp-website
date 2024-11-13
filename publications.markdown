@@ -16,7 +16,7 @@ Want to **add your own publication**? Then feel free to make a [pull request](ht
 
 - K. Lammers, A. Linke, A. Andrade and Catherina Cader, Increasing electricity access for health facilities in Ghana through solar powered mini-grids—a GIS-based energy system modelling approach, Environmental Research: Infrastructure and Sustainability (2024), [https://doi.org/10.1088/2634-4505/ad4391](https://doi.org/10.1088/2634-4505/ad4391)
 
-- M. Huseina, M. Moner-Girona, G. Falchettac, N. Stevanato, F. Fahlf and S. Szabó, The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study, Heliyon (2024), [https://doi.org/10.1016/j.heliyon.2024.e27440](https://doi.org/10.1016/j.heliyon.2024.e27440)
+- M. Huseina, M. Moner-Girona, G. Falchetta, N. Stevanato, F. Fahl and S. Szabó, The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study, Heliyon (2024), [https://doi.org/10.1016/j.heliyon.2024.e27440](https://doi.org/10.1016/j.heliyon.2024.e27440)
 
 - I. Fuchs, C. Sanchez-Solis, S. Balderrama, G. Valkenburg, Swarm electrification for Raqaypampa: Impact of different battery control setpoints on energy sharing in interconnected solar homes systems, Sustainable Energy, Grids and Networks (2024) [https://doi.org/10.1016/j.segan.2024.101535](https://doi.org/10.1016/j.segan.2024.101535).
 
