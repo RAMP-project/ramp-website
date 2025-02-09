@@ -8,6 +8,8 @@ The RAMP software suite has been used for many scientific publications. In this 
 
 Want to **add your own publication**? Then feel free to make a [pull request](https://github.com/RAMP-project/ramp-website) or contact us.
 
+- M. Secchi, D. Macii, G. Barchi, M. Marinelli, Centralised vehicle-to-grid smart charging supported by PV generation for power variance minimisation at the transformer: A user’s perspective analysis, eTransportation (2025), [https://doi.org/10.1016/j.etran.2025.100394](https://doi.org/10.1016/j.etran.2025.100394).
+
 - A. Belman Martínez, H.L. MacLean and I.D. Posen, Energy system models should consider evolving charging profiles, Environmental Research: Energy (2024), [https://doi.org/10.1088/2753-3751/ad7ebd](https://doi.org/10.1088/2753-3751/ad7ebd)
 
 - A. Dimovski, Z. Pezham, M. Ahmadi, L.M.F. Albertini, D.I. Edeme and M. Merlo, GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia, Energy for Sustainable Development (2024), [https://doi.org/10.1016/j.esd.2024.101520](https://doi.org/10.1016/j.esd.2024.101520)
