@@ -8,7 +8,34 @@ The RAMP software suite has been used for many scientific publications. In this 
 
 Want to **add your own publication**? Then feel free to make a [pull request](https://github.com/RAMP-project/ramp-website) or contact us.
 
+
+## 2025
+
+- J. Fleischmann, L. D. Arroyo, C. Dunks, P. Blechinger, L. Ribbe, A. Nauditt, L. Gallan, I. A. Milan, C.D.H. Moreno, P.F. Duc, V.H. Rana. Site-tailored Configuration of integrated Water-Energy-Food-Environment systems using Open Software-Case Study of two Colombian Sites. Energy Nexus (2025), [https://doi.org/10.1016/j.nexus.2025.100507](https://doi.org/10.1016/j.nexus.2025.100507)
+
+- V. Casalicchio, G. Barchi, F. Calabria, G. Manzolini, M. G. Prina, D. Moser. Advancing renewable energy community planning through integrated sector-coupling and economies of scale. Applied Energy (2025), [https://doi.org/10.1016/j.apenergy.2025.125942](https://doi.org/10.1016/j.apenergy.2025.125942)
+
+- B. F. Silinto, D. Edeme, S. Corigliano, A. Dimovski, M. Merlo, C. Zuidema, A. Faaij. An integrated geospatial modelling framework of hybrid microgrid sizing for rural electrification planning. MethodsX (2025), [https://doi.org/10.1016/j.mex.2025.103153](https://doi.org/10.1016/j.mex.2025.103153)
+
+- N. Toscani, M. Benvenuti, A. Cavallo, G. Tomasini, F. C. Dezza. Simplified design of a stand-alone photovoltaic generation system in a sub-Saharan farm. 2025 International Conference on Clean Electrical Power (ICCEP), IEEE (2025), [https://doi.org/10.1109/ICCEP65222.2025.11143668](https://doi.org/10.1109/ICCEP65222.2025.11143668)
+
+- A. Baruah, S. Sharma, G. Agarwal, M. Basu. Modelling of rooftop photovoltaic systems for electrification of public schools in developing countries. Energy for Sustainable Development (2025), [https://doi.org/10.1016/j.esd.2025.101670](https://doi.org/10.1016/j.esd.2025.101670)
+
+- C.O. Agbo, A. Onori, N. Stevanato, R. Mereu, C. U. Ogbuka, M. N. Eke, C. O. Ujah. Planning off-grid rural electrification with MicroGridsPy: The case of Dugub, Nigeria. Energy Strategy Reviews (2025), [https://doi.org/10.1016/j.esr.2025.101775](https://doi.org/10.1016/j.esr.2025.101775)
+
+- B. F. Silinto, D. Edeme, S. Corigliano, A. Dimovski, M. Merlo, C. Zuidema, A. Faaij. Applying soft-link and geospatial methods for optimal hybrid microgrids and electric network designs: A case study on rural Mozambique settings. Energy for Sustainable Development (2025), [https://doi.org/10.1016/j.esd.2025.101790](https://doi.org/10.1016/j.esd.2025.101790)
+
+- L. T. Fillol, N. Stevanato, A. Pinomaa, R. Mereu, S. Honkapuro. Improving electricity demand growth estimation in rural mini-grids through data-driven appliance diffusion modeling. Energy for Sustainable Development (2025), [https://doi.org/10.1016/j.esd.2025.101826](https://doi.org/10.1016/j.esd.2025.101826)
+
+- A. L. Temesgen, Y. T. Wassie, G. Bekele, E. O. Ahlgren. Long-term spatially explicit electricity demand scenarios for rural electrification: The case of Ethiopia. Energy Strategy Reviews (2025),[https://doi.org/10.1016/j.esr.2025.101931](https://doi.org/10.1016/j.esr.2025.101931)
+
+- C. Sanchez-Solis, S. Balderrama, G. Crevani, N. Stevanato, S. Quoilin. Bridging the energy gap: A Global South perspective on achieving universal access through energy sufficiency. Energy for Sustainable Development (2025), [https://doi.org/10.1016/j.esd.2025.101793](https://doi.org/10.1016/j.esd.2025.101793)
+
+- A. Velásquez, A. Alsanad, K. Lammers, A. Linke, N. Johnson, E. van Hove, C. Cader. Improving vaccination access through off-grid electrification: An assessment in Ghana. Energy for Sustainable Development (2025), [https://doi.org/10.1016/j.esd.2025.101794](https://doi.org/10.1016/j.esd.2025.101794)
+
 - M. Secchi, D. Macii, G. Barchi, M. Marinelli, Centralised vehicle-to-grid smart charging supported by PV generation for power variance minimisation at the transformer: A user’s perspective analysis, eTransportation (2025), [https://doi.org/10.1016/j.etran.2025.100394](https://doi.org/10.1016/j.etran.2025.100394).
+
+## 2024
 
 - A. Belman Martínez, H.L. MacLean and I.D. Posen, Energy system models should consider evolving charging profiles, Environmental Research: Energy (2024), [https://doi.org/10.1088/2753-3751/ad7ebd](https://doi.org/10.1088/2753-3751/ad7ebd)
 
@@ -31,6 +58,8 @@ Want to **add your own publication**? Then feel free to make a [pull request](ht
 - K. Lammers, A. Linke, A. Andrade, and C. Cader, Increasing electricity access for health facilities in Ghana through solar powered mini-grids-a GIS-based energy system modelling approach, Environmental Research: Infrastructure and Sustainability (2024). [https://doi.org/10.1088/2634-4505/ad4391](https://doi.org/10.1088/2634-4505/ad4391)
 
 -  W.J. Bonzi, S. Romuli, D. Diouf, B. Piriou, K. Meissner, and J. Müller, Computational sizing of solar powered peanut oil extraction in Senegal using a synthetic load profile, Energy for Sustainable Development (2024). [https://doi.org/10.1016/j.heliyon.2024.e27440](https://doi.org/10.1016/j.heliyon.2024.e27440)
+
+## 2023
 
 - N. Stevanato, I. Sangiorgio, R. Mereu, E. Colombo, Archetypes of Rural Users in Sub-Saharan Africa for Load Demand Estimation, IEEE Power Africa (2023). [https://doi.org/10.1109/PowerAfrica57932.2023.10363287](https://doi.org/10.1109/PowerAfrica57932.2023.10363287)
 
@@ -64,6 +93,8 @@ Want to **add your own publication**? Then feel free to make a [pull request](ht
 
 - M. Pasqui, A. Felice, M. Messagie, T. Coosemans, T. Bastianello, D. Baldi, P. Lubello, C. Carcasci. A New Smart Batteries Management for Renewable Energy Communities, Sustainable Energy, Grids and Networks (2023). [https://doi.org/10.1016/j.segan.2023.101043](https://doi.org/10.1016/j.segan.2023.101043)
 
+## 2022
+
 - M.C.G. Hart, S. Eckhoff, M.H. Breitner. Accessible decision support for sustainable energy systems in developing countries, Energy Informatics (2022). [https://doi.org/10.1186/s42162-022-00255-y](https://doi.org/10.1186/s42162-022-00255-y)
 
 - P. Lubello, M. Pasqui, A. Mati, C. Carcasci, Assessment of hydrogen-based long term electrical energy storage in residential energy systems, Smart Energy (2022). [https://doi.org/10.1016/j.segy.2022.100088](https://doi.org/10.1016/j.segy.2022.100088)
@@ -72,6 +103,8 @@ Want to **add your own publication**? Then feel free to make a [pull request](ht
 
 - A. Mangipinto, F. Lombardi, F.D. Sanvito, M. Pavičević, S. Quoilin, and E. Colombo. Impact of mass-scale deployment of electric vehicles and benefits of smart charging across all European countries, Applied Energy (2022). [https://doi.org/10.1016/j.apenergy.2022.118676](https://doi.org/10.1016/j.apenergy.2022.118676)
 
+## 2021
+
 - C. Sanchez, N. Stevanato, S. L. Balderrama Subieta, and S. Quoilin. Energy Sufficiency for Rural Communities: The Case of The Bolivian Lowlands, In 16th Conference on sustainable development of energy, water, and environment systems (2021). [https://hdl.handle.net/2268/264658](https://hdl.handle.net/2268/264658)
 
 - H. Chen, D. Yao, Y. Lin, G. Wu, S. Ni, and H. Li. Power Capacity Planning on Integrated Multi-Energy System of the Industrial Park. In 2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2) (2021). [https://doi.org/10.1109/EI252483.2021.9713384](https://doi.org/10.1109/EI252483.2021.9713384)
@@ -79,6 +112,8 @@ Want to **add your own publication**? Then feel free to make a [pull request](ht
 - N. Stevanato, Nicolò, S. Corigliano, M. Petrelli, F. Tonini, M. Merlo, and E. Colombo. Rural areas electrification strategies through shadow costs analysis-Bolivian Highlands case study, Energy for Sustainable Development (2021). [https://doi.org/10.1016/j.esd.2021.10.009](https://doi.org/10.1016/j.esd.2021.10.009)
 
 - M. Dallapiccola, G. Barchi, J. Adami, and D. Moser. The Role of Flexibility in Photovoltaic and Battery Optimal Sizing towards a Decarbonized Residential Sector, Energies (2021). [https://doi.org/10.1109/SAUPEC/RobMech/PRASA48453.2020.9041001](https://doi.org/10.1109/SAUPEC/RobMech/PRASA48453.2020.9041001)
+
+## 2020
 
 - R. Takalani and B. Bekker. "Load and load growth models for rural microgrids, and how to future-proof designs." In 2020 International SAUPEC/RobMech/PRASA Conference (2020). [10.1109/SAUPEC/RobMech/PRASA48453.2020.9041001](10.1109/SAUPEC/RobMech/PRASA48453.2020.9041001)
 
@@ -91,6 +126,8 @@ Want to **add your own publication**? Then feel free to make a [pull request](ht
 - F. Lombardi, S. Quoilin, E. Colombo, Modelling distributed Power-to-Heat technologies as a flexibility option for smart heat-electricity integration, Proceedings of ECOS 2020 (2020). [http://hdl.handle.net/11311/1143671](http://hdl.handle.net/11311/1143671)
 
 - N. Stevanato, F. Lombardi, G. Guidicini, L. Rinaldi, S. Balderrama, M. Pavičević, S. Quoilin, E. Colombo, Long-term sizing of rural microgrids: Accounting for load evolution through multi-step investment plan and stochastic optimization, Energy for Sustainable Development (2020). [https://doi.org/10.1016/j.esd.2020.07.002](https://doi.org/10.1016/j.esd.2020.07.002)
+
+## 2019
 
 - S. Balderrama, G. Peña Balderrama, F. Lombardi, Ni. Stevanato, A. Sahlberg, M. Howells, E. Colombo and Sylvain Quoilin, Model-Base cost evaluation of Microgrids systems for rural Electrification and energy planning purposes, Proceedings of ISES Solar World Congress 2019, (2019). [http://hdl.handle.net/11311/1139750](http://hdl.handle.net/11311/1139750)
 
