@@ -8,6 +8,9 @@ The RAMP software suite has been used for many scientific publications. In this 
 
 Want to **add your own publication**? Then feel free to make a [pull request](https://github.com/RAMP-project/ramp-website) or contact us.
 
+## 2026
+
+- F. Sanvito, F. Lombardi, S. Pfenninger-Lee. Coordinated planning of European charging infrastructure and energy system for optimal V1G and V2G deployment. Nature Energy (2026), [https://doi.org/10.1038/s41560-026-02107-5](https://doi.org/10.1038/s41560-026-02107-5)
 
 ## 2025
 
