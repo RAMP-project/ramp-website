@@ -12,6 +12,8 @@ Want to **add your own publication**? Then feel free to make a [pull request](ht
 
 - F. Sanvito, F. Lombardi, S. Pfenninger-Lee. Coordinated planning of European charging infrastructure and energy system for optimal V1G and V2G deployment. Nature Energy (2026), [https://doi.org/10.1038/s41560-026-02107-5](https://doi.org/10.1038/s41560-026-02107-5)
 
+- N. Toscani, M. Benvenuti, I.M. Carraretto,  A. Cavallo, G. Cornaggia, C. D’Ignazi, M.C. Rampini, G. Zani, G. Tomasini, F. Castelli-Dezza. Multidisciplinary strategies for the sustainable development of community farms in remote areas. Sci Rep (2026). [https://doi.org/10.1038/s41598-026-71349-w](https://doi.org/10.1038/s41598-026-71349-w)
+
 ## 2025
 
 - J. Fleischmann, L. D. Arroyo, C. Dunks, P. Blechinger, L. Ribbe, A. Nauditt, L. Gallan, I. A. Milan, C.D.H. Moreno, P.F. Duc, V.H. Rana. Site-tailored Configuration of integrated Water-Energy-Food-Environment systems using Open Software-Case Study of two Colombian Sites. Energy Nexus (2025), [https://doi.org/10.1016/j.nexus.2025.100507](https://doi.org/10.1016/j.nexus.2025.100507)
