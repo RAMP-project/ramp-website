@@ -36,4 +36,4 @@ gem "webrick", "~> 1.9"
 
 gem "csv"
 
-ruby "3.3.0"
+ruby "3.4.8"
