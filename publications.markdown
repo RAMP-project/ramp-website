@@ -10,11 +10,31 @@ Want to **add your own publication**? Then feel free to make a [pull request](ht
 
 ## 2026
 
+- P. Benalcazar, M. Kalka, M. Guamán, J. Kamiński. Reinforcement Learning and Rule-Based Peer-to-Peer Pricing in Residential PV-BES Communities. arXiv (2026). [https://doi.org/10.48550/arXiv.2609.01680](https://doi.org/10.48550/arXiv.2609.01680)
+
 - F. Sanvito, F. Lombardi, S. Pfenninger-Lee. Coordinated planning of European charging infrastructure and energy system for optimal V1G and V2G deployment. Nature Energy (2026), [https://doi.org/10.1038/s41560-026-02107-5](https://doi.org/10.1038/s41560-026-02107-5)
 
 - N. Toscani, M. Benvenuti, I.M. Carraretto,  A. Cavallo, G. Cornaggia, C. D’Ignazi, M.C. Rampini, G. Zani, G. Tomasini, F. Castelli-Dezza. Multidisciplinary strategies for the sustainable development of community farms in remote areas. Scientific Reports (2026). [https://doi.org/10.1038/s41598-026-71349-w](https://doi.org/10.1038/s41598-026-71349-w)
 
+- I.N. Sa’id,  M.F.R. Michaga ,  K. Rabea, L. Ma, D. Ingham, M. Pourkashanian. Techno-economic and life cycle analysis of a load-following poly-generation microgrid for rural agrarian communities. Energy Conversion and Management (2026). [https://doi.org/10.1016/j.enconman.2026.121688](https://doi.org/10.1016/j.enconman.2026.121688)
+
+- N. Ouanes, T.G. Grandón, I. Fagerli, S.A. Gabriel. Isolated or interconnected? An equilibrium framework for swarm electrification in rural energy planning. Energy Economics (2026). [https://doi.org/10.1016/j.eneco.2026.109598](https://doi.org/10.1016/j.eneco.2026.109598)
+
+- K.S. Gad, F. Tonini, G. Agati, M. Agostino, D. Borello, E. Colombo. Railway stations as bankable renewable energy enablers: Stochastic demand modelling and mini-grid optimisation across Italian station archetypes. Results in Engineering (2026). [https://doi.org/10.1016/j.rineng.2026.112931](https://doi.org/10.1016/j.rineng.2026.112931)
+
 ## 2025
+
+- L. T. Fillol, N. Stevanato, A. Pinomaa, R. Mereu, S. Honkapuro. Modeling Residential Load Growth for Off-Grid Communities: A Case Study of the Faza Mini-Grid in Kenya. IEEE PES/IAS PowerAfrica (2025). [https://doi.org/10.1109/PowerAfrica65840.2025.11289144](https://doi.org/10.1109/PowerAfrica65840.2025.11289144)
+
+- H.S. Maccido, A. Sada, M. Husein. Beyond the Grid: How Incentive Policies Can Bridge the Electricity Access Gap in Rural Nigeria. Techno-computing Journal (2025). [https://doi.org/10.71170/tecoj.2025.1.2.pp18-25](https://doi.org/10.71170/tecoj.2025.1.2.pp18-25)
+
+- J. Meerholz, N.B. Arias, M.E. Gerards, J. Popović. Beyond Metered Data: Bottom-Up Stochastic Survey Based Load Modelling in South Africa's Low-Income Communities. IEEE SPEC (2025). [https://doi.org/10.1109/SPEC64875.2025.11377329](https://doi.org/10.1109/SPEC64875.2025.11377329)
+
+- A.S. Jakhro, N.H. Mirjat, A.S. Jakhro, M.S. Memon, R.H. Kumar, Z.A. Memon. Optimal Sizing and Economic Analysis of Solar Home Systems: A Swarm Electrification Approach. IEEE PES Conference (ISGT Middle East) (2025). [https://doi.org/10.1109/ISGTMiddleEast65737.2025.11314402](https://doi.org/10.1109/ISGTMiddleEast65737.2025.11314402).
+
+- S. Sossou, T. Alain, V. Symplice, O. Dumont, C.L. Sanchez Solis, S. Balderrama, N. Lurie, H.O.M. Sehou, C. Semassoue, S. Quoilin. Calibration and extrapolation of a stochastic model for electricity demand forecasting in rural communities: The case of samionta, benin. ECOS conference (2025). [https://hdl.handle.net/2268/335056](https://hdl.handle.net/2268/335056)
+
+- B. Bagré, G, Falchetta, J. Nébié, B.A. Korsaga, A. Kaboré, R. Zoundi, T. Daho, A. Beré. Geospatial estimation and projection of electricity demand in Burkina Faso for efficient and sustainable rural electrification. Environmental Research Communications (2025). [https://doi.org/10.1088/2515-7620/ae256f](https://doi.org/10.1088/2515-7620/ae256f)
 
 - J. Fleischmann, L. D. Arroyo, C. Dunks, P. Blechinger, L. Ribbe, A. Nauditt, L. Gallan, I. A. Milan, C.D.H. Moreno, P.F. Duc, V.H. Rana. Site-tailored Configuration of integrated Water-Energy-Food-Environment systems using Open Software-Case Study of two Colombian Sites. Energy Nexus (2025), [https://doi.org/10.1016/j.nexus.2025.100507](https://doi.org/10.1016/j.nexus.2025.100507)
 
